@@ -1,0 +1,2 @@
+go: main.cpp read_file.cpp
+  gcc -o go main.cpp read_file.cpp
